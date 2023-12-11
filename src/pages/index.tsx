@@ -23,7 +23,6 @@ export default function Index() {
     }
     setArray(arr)
     setIsSorted(sorted)
-
     // Alert when sorting is complete
     if (sorted) {
       alert("Array is completely sorted!")
